@@ -1,6 +1,6 @@
 # PuppetzMedia Presents: DinoTopia - Changelog
 
-## v0.1
+## v0.1a
 ---
 
 ### Initial Mod List
